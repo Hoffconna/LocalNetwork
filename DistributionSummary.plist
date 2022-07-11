@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LocalNetwork.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BC0D708B9DA7876D71DFD17E995B01A2524DF1F6</string>
+				<key>dateExpires</key>
+				<string>1/27/23</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>B85SL2AS4K.hoffconna.com.LocalNetwork</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>B85SL2AS4K</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>B85SL2AS4K.hoffconna.com.LocalNetwork</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>LocalNetwork.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>24c23ae4-fa3f-4abe-94e5-a3c7ddfbf7de</string>
+				<key>dateExpires</key>
+				<string>7/10/23</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>B85SL2AS4K</string>
+				<key>name</key>
+				<string>xiangyu cao</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
