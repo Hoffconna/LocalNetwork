@@ -10,7 +10,7 @@
                <key>kind</key>
                <string>software-package</string>
                <key>url</key>
-               <string><![CDATA[http://10.87.36.20:8000/Luna1.7.1.ipa]]></string>
+               <string><![CDATA[http://10.87.36.202:8000/Luna1.7.1.ipa]]></string>
              </dict>
              <dict>
                <key>kind</key>
